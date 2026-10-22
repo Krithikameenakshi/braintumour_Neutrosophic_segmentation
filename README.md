@@ -176,3 +176,4 @@ python scripts/phase4_eval_test.py
    - Paired Wilcoxon signed-rank tests confirm statistically significant superiority over all five baseline methods ($p < 10^{-4}$).
 
 For full details on failure modes (pituitary sinus inversion, necrotic cores, scalp fat margins), see [LIMITATIONS.md](LIMITATIONS.md).
+# braintumour_Neutrosophic_segmentation
