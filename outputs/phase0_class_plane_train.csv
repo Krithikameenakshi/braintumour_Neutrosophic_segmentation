@@ -1,0 +1,5 @@
+tumor_class,axial,coronal,sagittal
+glioma,394,430,323
+meningioma,423,426,480
+no_tumor,352,310,405
+pituitary,426,510,521

@@ -1,0 +1,501 @@
+filename,tumor_class,plane,method,is_empty_gt,pred_empty,dice,iou,sensitivity,precision,fnr,hd95,false_alarm,fp_pixel_count
+brisc2025_train_00043_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999995616,270.5305777714941,False,184
+brisc2025_train_00043_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999995616,271.136848597896,False,180
+brisc2025_train_00043_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999995616,270.5305777714941,False,182
+brisc2025_train_00043_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999995616,273.6917854514121,False,40
+brisc2025_train_00043_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999995616,231.5953345369089,False,24
+brisc2025_train_00056_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999990393,203.94704652355136,False,154
+brisc2025_train_00056_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990393,203.94704652355136,False,151
+brisc2025_train_00056_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990393,203.94704652355136,False,147
+brisc2025_train_00056_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999990393,201.59404542005302,False,11
+brisc2025_train_00056_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999990393,205.75954985317793,False,54
+brisc2025_train_00079_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999965036,98.62859273734232,False,62
+brisc2025_train_00079_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999965036,99.00808029286509,False,58
+brisc2025_train_00079_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999965036,99.00808029286509,False,58
+brisc2025_train_00079_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999965036,143.85604108400378,False,19
+brisc2025_train_00079_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999965036,157.2189537426715,False,2
+brisc2025_train_00204_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0007060484819949328,0.00035314891112377497,0.0008455467869198266,0.0006060606060593817,0.9991544532102618,174.86451897980268,False,4947
+brisc2025_train_00204_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971816,209.8274284760779,False,97
+brisc2025_train_00204_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971816,209.42265787031903,False,100
+brisc2025_train_00204_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999971816,201.55656774143503,False,6
+brisc2025_train_00204_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999971816,95.36946644830842,False,1
+brisc2025_train_00234_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999989261,270.19400326595604,False,31
+brisc2025_train_00234_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999989261,270.2879765059496,False,25
+brisc2025_train_00234_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999989261,270.2879765059496,False,27
+brisc2025_train_00234_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999989261,173.4253000101154,False,3
+brisc2025_train_00234_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999989261,170.47696510719416,False,8
+brisc2025_train_00248_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999995025,173.80145103387076,False,315
+brisc2025_train_00248_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999995025,164.6023688680789,False,100
+brisc2025_train_00248_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999995025,164.6023688680789,False,100
+brisc2025_train_00248_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999995025,74.43621333883542,False,5
+brisc2025_train_00248_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999995025,169.04479491792512,False,4
+brisc2025_train_00276_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999990661,211.11132966236815,False,263
+brisc2025_train_00276_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990661,185.22040601868463,False,540
+brisc2025_train_00276_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990661,185.22040601868463,False,546
+brisc2025_train_00276_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999990661,196.12485920266397,False,10
+brisc2025_train_00276_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999990661,241.31846158361697,False,2
+brisc2025_train_00390_gl_ax_t1.jpg,glioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999996277,87.09190547921202,False,212
+brisc2025_train_00390_gl_ax_t1.jpg,glioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999996277,87.09190547921202,False,206
+brisc2025_train_00390_gl_ax_t1.jpg,glioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999996277,86.51819198566349,False,218
+brisc2025_train_00390_gl_ax_t1.jpg,glioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999996277,95.67005388747538,False,16
+brisc2025_train_00390_gl_ax_t1.jpg,glioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999996277,147.46287507346426,False,8
+brisc2025_train_00425_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999980942,252.48712816199225,False,982
+brisc2025_train_00425_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999980942,252.76795468385347,False,945
+brisc2025_train_00425_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999980942,253.17385291743895,False,934
+brisc2025_train_00425_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999980942,154.7699896637887,False,3
+brisc2025_train_00425_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999980942,153.8611359575689,False,23
+brisc2025_train_00470_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999987473,271.0637968337527,False,305
+brisc2025_train_00470_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999987473,271.498412714469,False,296
+brisc2025_train_00470_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999987473,271.498412714469,False,295
+brisc2025_train_00470_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999987473,184.5459280936224,False,14
+brisc2025_train_00470_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999987473,218.79349549746357,False,18
+brisc2025_train_00547_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999947035,243.6807222644371,False,165
+brisc2025_train_00547_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999947035,243.6807222644371,False,152
+brisc2025_train_00547_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999947035,243.6807222644371,False,157
+brisc2025_train_00547_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999947035,216.3354981349832,False,7
+brisc2025_train_00547_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999947035,206.29951385289775,False,138
+brisc2025_train_00550_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999983977,246.91364858596614,False,153
+brisc2025_train_00550_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983977,247.77802551918123,False,74
+brisc2025_train_00550_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983977,247.72050750248826,False,76
+brisc2025_train_00550_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999983977,199.4498683693162,False,5
+brisc2025_train_00550_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0012810248198538334,0.0006409229290167586,0.0006409229290167586,0.9999999975,0.999359077069381,94.53359090168739,False,0
+brisc2025_train_00560_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999957682,172.11621860573072,False,581
+brisc2025_train_00560_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999957682,166.55689245158908,False,267
+brisc2025_train_00560_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999957682,166.55689245158908,False,267
+brisc2025_train_00560_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999957682,151.38093150326063,False,1
+brisc2025_train_00560_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999957682,150.06198491906176,False,2
+brisc2025_train_00572_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999988303,135.67018814228234,False,45
+brisc2025_train_00572_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0049002450122448945,0.00245614035087432,0.00245614035087432,0.9999999995238095,0.997543859647956,111.08573932979914,False,0
+brisc2025_train_00572_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0049002450122448945,0.00245614035087432,0.00245614035087432,0.9999999995238095,0.997543859647956,111.08573932979914,False,0
+brisc2025_train_00572_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0009352349777870759,0.0004678362573093943,0.0004678362573093943,0.9999999975,0.9995321637415209,93.6818974026267,False,0
+brisc2025_train_00572_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999988303,138.78396656195275,False,2
+brisc2025_train_00756_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999753086,47.583528985822724,False,73
+brisc2025_train_00756_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999753086,48.54682160354043,False,57
+brisc2025_train_00756_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999753086,48.54682160354043,False,55
+brisc2025_train_00756_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999753086,121.25369777770534,False,8
+brisc2025_train_00756_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999753086,108.97335858276342,False,26
+brisc2025_train_00775_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.7928657862888446,0.6568165969310871,0.6568165969310871,0.9999999999986728,0.3431834030680411,13.534939600987657,False,0
+brisc2025_train_00775_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999991283,149.7515628576222,False,82
+brisc2025_train_00775_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999991283,149.7515628576222,False,79
+brisc2025_train_00775_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999991283,239.0238478838207,False,1
+brisc2025_train_00775_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999991283,235.68739494576363,False,6
+brisc2025_train_00817_gl_co_t1.jpg,glioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999986494,182.06128600209777,False,224
+brisc2025_train_00817_gl_co_t1.jpg,glioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986494,181.43221858050543,False,105
+brisc2025_train_00817_gl_co_t1.jpg,glioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986494,181.43221858050543,False,105
+brisc2025_train_00817_gl_co_t1.jpg,glioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999986494,189.3644631200075,False,3
+brisc2025_train_00817_gl_co_t1.jpg,glioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999986494,192.76215912883626,False,2
+brisc2025_train_00834_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999985798,176.6027660653384,False,11978
+brisc2025_train_00834_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999985798,182.55697592191868,False,2363
+brisc2025_train_00834_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999985798,174.8237671962174,False,2534
+brisc2025_train_00834_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0002840102243676739,0.00014202528049972728,0.00014202528049972728,0.9999999900000002,0.99985797471808,70.79388483624118,False,0
+brisc2025_train_00834_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999985798,177.50477782245432,False,1
+brisc2025_train_00929_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999959084,101.0,False,225
+brisc2025_train_00929_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999959084,101.00247518686584,False,213
+brisc2025_train_00929_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999959084,101.00247518686584,False,215
+brisc2025_train_00929_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999959084,101.01237520656495,False,57
+brisc2025_train_00929_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999959084,103.0315478521485,False,80
+brisc2025_train_00944_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999988295,162.7734584247618,False,3434
+brisc2025_train_00944_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999988295,163.39567981787175,False,3050
+brisc2025_train_00944_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999988295,163.39567981787175,False,3039
+brisc2025_train_00944_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999988295,199.09507439351398,False,20
+brisc2025_train_00944_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999988295,134.61742085718714,False,287
+brisc2025_train_00957_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999927695,192.132181747349,False,2954
+brisc2025_train_00957_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999927695,271.47577168036423,False,18
+brisc2025_train_00957_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999927695,271.47577168036423,False,18
+brisc2025_train_00957_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999927695,278.11452117880907,False,4
+brisc2025_train_00957_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999927695,182.00082416960387,False,10
+brisc2025_train_00998_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999987311,126.16770546232011,False,86
+brisc2025_train_00998_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999987311,126.87824309087895,False,78
+brisc2025_train_00998_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999987311,126.87824309087895,False,78
+brisc2025_train_00998_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999987311,253.30337539211376,False,1
+brisc2025_train_00998_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999987311,250.39448378729097,False,16
+brisc2025_train_01022_gl_sa_t1.jpg,glioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999973284,256.4606701232099,False,13
+brisc2025_train_01022_gl_sa_t1.jpg,glioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999973284,118.49451313475046,False,100
+brisc2025_train_01022_gl_sa_t1.jpg,glioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999973284,247.34701001646897,False,18
+brisc2025_train_01022_gl_sa_t1.jpg,glioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999973284,233.4867032624936,False,1
+brisc2025_train_01022_gl_sa_t1.jpg,glioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999973284,232.06798156707083,False,18
+brisc2025_train_01221_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999992507,207.38297647134752,False,978
+brisc2025_train_01221_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999992507,210.93695520660043,False,649
+brisc2025_train_01221_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999992507,210.93695520660043,False,586
+brisc2025_train_01221_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999992507,267.56877436787045,False,15
+brisc2025_train_01221_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999992507,273.24924519488263,False,2
+brisc2025_train_01280_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.9551999197306199,0.9142418131173395,0.9170600134852932,0.9966499162468627,0.08293998651374343,5.656854249492381,False,32
+brisc2025_train_01280_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990367,208.56234048743934,False,651
+brisc2025_train_01280_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999990367,208.56234048743934,False,641
+brisc2025_train_01280_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999990367,237.40255481175168,False,3
+brisc2025_train_01280_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999990367,239.20906045791486,False,51
+brisc2025_train_01285_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999891658,106.27627811761238,False,132
+brisc2025_train_01285_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999891658,106.27627811761238,False,125
+brisc2025_train_01285_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999891658,106.27627811761238,False,130
+brisc2025_train_01285_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999891658,117.68664382722666,False,7
+brisc2025_train_01285_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999891658,116.52059169824066,False,21
+brisc2025_train_01293_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.9810722610713463,0.9628477305985307,0.965498256559065,0.9971569370716505,0.034501743439099834,2.0,False,15
+brisc2025_train_01293_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.9804946336901721,0.9617356279733399,0.9640300972637842,0.9975313330782425,0.03596990273438068,2.0,False,13
+brisc2025_train_01293_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.9801064724003173,0.960989010987251,0.9629289777923236,0.9979079497888971,0.03707102220584131,2.0,False,11
+brisc2025_train_01293_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.9278127458684816,0.8653458081070164,0.8656634244799676,0.999576181392245,0.13433657551819722,7.628427124746159,False,2
+brisc2025_train_01293_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.9516113516104361,0.9076894843073817,0.9076894843073817,0.9999999999979782,0.09231051569078307,3.0,False,0
+brisc2025_train_01323_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.6040823508704873,0.4327492751790839,0.9904789382544995,0.4345569620247664,0.009521061742615347,72.80966974985861,False,4467
+brisc2025_train_01323_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971149,79.58513631351049,False,1677
+brisc2025_train_01323_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971149,79.58513631351049,False,1677
+brisc2025_train_01323_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999971149,159.11316727411344,False,3
+brisc2025_train_01323_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999971149,131.56734820883312,False,63
+brisc2025_train_01428_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.16571081129933354,0.09034061385746711,0.9994053518315176,0.09034547018347006,0.0005946481665003079,147.13123379473794,False,50766
+brisc2025_train_01428_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.9584276600113619,0.9201738786782846,0.9230921704639781,0.9965760753242102,0.07690782953403982,4.0,False,16
+brisc2025_train_01428_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999980178,178.27444319739624,False,4
+brisc2025_train_01428_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999980178,168.04701006339977,False,1
+brisc2025_train_01428_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999980178,168.6090102524635,False,1
+brisc2025_train_01558_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.9383737836920496,0.8839022334578932,0.9115601912192274,0.9668126296359373,0.08843980877859965,7.067514421272201,False,144
+brisc2025_train_01558_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.8569301402148444,0.7496743378186069,0.7503259452395691,0.9988429273908046,0.249674054758258,9.899494936611665,False,4
+brisc2025_train_01558_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.9001066477060076,0.8183581124739963,0.8252933507152862,0.9898358092233781,0.17470664928254084,7.280109889280518,False,39
+brisc2025_train_01558_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.001302931596088376,0.0006518904823975404,0.0006518904823975404,0.9999999966666667,0.9993481095154295,73.65833165760245,False,0
+brisc2025_train_01558_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.5347763807090008,0.3649793612853248,0.36505867014262267,0.9994051159964343,0.6349413298552044,26.832815729997478,False,1
+brisc2025_train_01567_me_ax_t1.jpg,meningioma,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999966678,104.9139480711742,False,2104
+brisc2025_train_01567_me_ax_t1.jpg,meningioma,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999966678,104.38007092784916,False,1861
+brisc2025_train_01567_me_ax_t1.jpg,meningioma,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999966678,104.3829451980062,False,1860
+brisc2025_train_01567_me_ax_t1.jpg,meningioma,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999966678,125.15989773086265,False,1
+brisc2025_train_01567_me_ax_t1.jpg,meningioma,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999966678,119.24972285745876,False,9
+brisc2025_train_01601_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999934641,150.33090587027513,False,6363
+brisc2025_train_01601_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.8286151491934637,0.707380796860174,0.7078431372502756,0.9990774907656913,0.29215686274318853,7.781078190400241,False,1
+brisc2025_train_01601_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.8330792682895081,0.7139124755015421,0.7143790849626511,0.9990859232084179,0.28562091503081294,7.781078190400241,False,1
+brisc2025_train_01601_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999934641,65.80159566938873,False,2
+brisc2025_train_01601_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999934641,64.54726232322344,False,15
+brisc2025_train_01646_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999981416,331.92529262224434,False,653
+brisc2025_train_01646_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999981416,334.6849248466664,False,591
+brisc2025_train_01646_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999981416,334.87579718110953,False,588
+brisc2025_train_01646_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999981416,309.75763081761573,False,28
+brisc2025_train_01646_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999981416,345.84765325383137,False,380
+brisc2025_train_01724_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.9593459005212815,0.9218681798321217,0.9646037908176192,0.9541450191982062,0.03539620918009729,21.63219112964097,False,203
+brisc2025_train_01724_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999977164,125.0005999904003,False,32
+brisc2025_train_01724_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999977164,125.0005999904003,False,32
+brisc2025_train_01724_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999977164,307.74802985317575,False,6
+brisc2025_train_01724_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999977164,294.57206228865425,False,10
+brisc2025_train_01725_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.5467712733845368,0.3762458471750381,0.37718567860011887,0.9934210526243171,0.6228143213971057,32.529349182381345,False,9
+brisc2025_train_01725_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972246,123.128386333503,False,41
+brisc2025_train_01725_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972246,123.128386333503,False,40
+brisc2025_train_01725_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999972246,293.81286454892086,False,189
+brisc2025_train_01725_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999972246,293.6191398518043,False,222
+brisc2025_train_01747_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999963464,151.98371601060015,False,7376
+brisc2025_train_01747_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.8883475436441568,0.7991234477691778,0.7994154183383289,0.9995431703928755,0.2005845816580176,12.00827625302982,False,1
+brisc2025_train_01747_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.8881672417274443,0.798831690395039,0.7994154183383289,0.9990867579863056,0.2005845816580176,12.00827625302982,False,2
+brisc2025_train_01747_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999963464,180.7711254342222,False,12
+brisc2025_train_01747_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999963464,175.86813226028985,False,53
+brisc2025_train_01918_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.9736954662093951,0.9487393206898339,0.979982780884675,0.9674883127901244,0.020017219113172585,4.206244584051384,False,153
+brisc2025_train_01918_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978476,200.1394512560367,False,173
+brisc2025_train_01918_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978476,200.1394512560367,False,173
+brisc2025_train_01918_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999978476,214.23853469733012,False,2
+brisc2025_train_01918_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999978476,207.78702796134678,False,79
+brisc2025_train_01928_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999952697,288.95023535967414,False,279
+brisc2025_train_01928_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999952697,175.06068172226105,False,729
+brisc2025_train_01928_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999952697,175.06068172226105,False,744
+brisc2025_train_01928_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999952697,195.96747066620253,False,4
+brisc2025_train_01928_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999952697,232.07434062970916,False,10
+brisc2025_train_01986_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999989119,270.46071560864146,False,2056
+brisc2025_train_01986_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999989119,287.6021519487858,False,417
+brisc2025_train_01986_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999989119,287.6021519487858,False,958
+brisc2025_train_01986_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999989119,293.7175407130171,False,45
+brisc2025_train_01986_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999989119,294.01154025647674,False,11
+brisc2025_train_01989_me_co_t1.jpg,meningioma,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999961195,260.89613666965374,False,199
+brisc2025_train_01989_me_co_t1.jpg,meningioma,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999961195,195.5478198782659,False,94
+brisc2025_train_01989_me_co_t1.jpg,meningioma,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999961195,195.1754327712597,False,97
+brisc2025_train_01989_me_co_t1.jpg,meningioma,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999961195,229.8182953649182,False,5
+brisc2025_train_01989_me_co_t1.jpg,meningioma,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999961195,223.6543048392387,False,17
+brisc2025_train_02070_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999978351,233.053088832688,False,360
+brisc2025_train_02070_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978351,261.73507540692185,False,379
+brisc2025_train_02070_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978351,245.26826582445761,False,1934
+brisc2025_train_02070_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999978351,265.58849749063955,False,47
+brisc2025_train_02070_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999978351,264.59544590558284,False,100
+brisc2025_train_02074_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999986748,206.84002647699947,False,4205
+brisc2025_train_02074_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986748,206.84002647699947,False,3801
+brisc2025_train_02074_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986748,206.84002647699947,False,3816
+brisc2025_train_02074_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999986748,248.0815247161578,False,6
+brisc2025_train_02074_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999986748,215.6024118349056,False,3
+brisc2025_train_02169_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.14588617479850743,0.07868242651319074,0.9579914670151658,0.0789548423743148,0.04200853298319329,177.618686131808,False,68103
+brisc2025_train_02169_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983591,260.3101669867722,False,920
+brisc2025_train_02169_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983591,260.3101669867722,False,920
+brisc2025_train_02169_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999983591,192.7832927424377,False,51
+brisc2025_train_02169_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999983591,128.5541596443517,False,834
+brisc2025_train_02265_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999971437,107.06002865436334,False,69
+brisc2025_train_02265_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.6600420408930632,0.49258414147035773,0.49328763210370385,0.9971131639665294,0.5067123678934399,26.12944189049741,False,5
+brisc2025_train_02265_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.6611948845186845,0.4938694040476365,0.49471579548559064,0.9965477560356931,0.5052842045115531,26.12944189049741,False,6
+brisc2025_train_02265_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0005711022272970557,0.0002856326763773618,0.0002856326763773618,0.9999999900000002,0.9997143673207664,65.09876561435824,False,0
+brisc2025_train_02265_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999971437,244.25150917545335,False,1
+brisc2025_train_02274_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999988283,258.27262100051684,False,320
+brisc2025_train_02274_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999988283,262.51056515036635,False,225
+brisc2025_train_02274_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999988283,262.51056515036635,False,232
+brisc2025_train_02274_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999988283,202.20225007319033,False,5
+brisc2025_train_02274_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999988283,212.72047386182646,False,5
+brisc2025_train_02372_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999932478,190.44368287263427,False,1429
+brisc2025_train_02372_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999932478,188.26111535263573,False,897
+brisc2025_train_02372_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999932478,188.26682637308068,False,928
+brisc2025_train_02372_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999932478,186.01344029693217,False,211
+brisc2025_train_02372_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999932478,287.89580692676304,False,14
+brisc2025_train_02391_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999877601,67.73883517000952,False,2203
+brisc2025_train_02391_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999877601,71.13957555361908,False,206
+brisc2025_train_02391_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999877601,71.13957555361908,False,203
+brisc2025_train_02391_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999877601,71.7519695279932,False,121
+brisc2025_train_02391_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999877601,270.6225215209319,False,1
+brisc2025_train_02396_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999979219,139.44854984310942,False,81
+brisc2025_train_02396_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999979219,153.47827254906983,False,35
+brisc2025_train_02396_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999979219,153.47827254906983,False,33
+brisc2025_train_02396_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999979219,174.27420278795168,False,1
+brisc2025_train_02396_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999979219,215.52052375612436,False,6
+brisc2025_train_02411_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.12960231895848637,0.06929131717395978,0.846537120078315,0.07017278171679353,0.15346287992002414,187.86910307764722,False,67538
+brisc2025_train_02411_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983392,189.72506054360576,False,123
+brisc2025_train_02411_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983392,189.4074890493599,False,130
+brisc2025_train_02411_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999983392,195.19323080749587,False,18
+brisc2025_train_02411_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999983392,192.3798299896035,False,58
+brisc2025_train_02439_me_sa_t1.jpg,meningioma,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999986554,157.6451385200759,False,42
+brisc2025_train_02439_me_sa_t1.jpg,meningioma,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986554,100.17983829094555,False,437
+brisc2025_train_02439_me_sa_t1.jpg,meningioma,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999986554,100.17983829094555,False,436
+brisc2025_train_02439_me_sa_t1.jpg,meningioma,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999986554,277.66340341952946,False,2
+brisc2025_train_02439_me_sa_t1.jpg,meningioma,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999986554,279.9017170384761,False,9
+brisc2025_train_02516_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,14357
+brisc2025_train_02516_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,9923
+brisc2025_train_02516_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,9501
+brisc2025_train_02516_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,12868
+brisc2025_train_02516_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,9216
+brisc2025_train_02532_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,8464
+brisc2025_train_02532_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,3200
+brisc2025_train_02532_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,2856
+brisc2025_train_02532_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,3903
+brisc2025_train_02532_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,3034
+brisc2025_train_02587_no_ax_t1.jpg,no_tumor,axial,Otsu,True,True,,,,,,,False,0
+brisc2025_train_02587_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,True,,,,,,,False,0
+brisc2025_train_02587_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,True,,,,,,,False,0
+brisc2025_train_02587_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,True,,,,,,,False,0
+brisc2025_train_02587_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,True,,,,,,,False,0
+brisc2025_train_02593_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,38507
+brisc2025_train_02593_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,32689
+brisc2025_train_02593_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,30824
+brisc2025_train_02593_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,37662
+brisc2025_train_02593_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,35019
+brisc2025_train_02603_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,78420
+brisc2025_train_02603_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,65
+brisc2025_train_02603_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,65
+brisc2025_train_02603_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,1
+brisc2025_train_02603_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,39
+brisc2025_train_02632_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,67953
+brisc2025_train_02632_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,88
+brisc2025_train_02632_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,76
+brisc2025_train_02632_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,3
+brisc2025_train_02632_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,3
+brisc2025_train_02705_no_ax_t1.jpg,no_tumor,axial,Otsu,True,False,,,,,,,True,39459
+brisc2025_train_02705_no_ax_t1.jpg,no_tumor,axial,k-Means (k=3),True,False,,,,,,,True,1494
+brisc2025_train_02705_no_ax_t1.jpg,no_tumor,axial,FCM (c=3),True,False,,,,,,,True,1587
+brisc2025_train_02705_no_ax_t1.jpg,no_tumor,axial,Guo-Cheng NS,True,False,,,,,,,True,1
+brisc2025_train_02705_no_ax_t1.jpg,no_tumor,axial,Tufail NS ROI,True,False,,,,,,,True,481
+brisc2025_train_02838_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,7
+brisc2025_train_02838_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,240
+brisc2025_train_02838_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,254
+brisc2025_train_02838_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,12
+brisc2025_train_02838_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,1
+brisc2025_train_02854_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,14233
+brisc2025_train_02854_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,10330
+brisc2025_train_02854_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,10027
+brisc2025_train_02854_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,11271
+brisc2025_train_02854_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,10178
+brisc2025_train_02886_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,6
+brisc2025_train_02886_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,6
+brisc2025_train_02886_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,8
+brisc2025_train_02886_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,1
+brisc2025_train_02886_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,1
+brisc2025_train_02889_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,2577
+brisc2025_train_02889_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,884
+brisc2025_train_02889_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,886
+brisc2025_train_02889_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,1022
+brisc2025_train_02889_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,2
+brisc2025_train_02892_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,1639
+brisc2025_train_02892_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,10
+brisc2025_train_02892_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,10
+brisc2025_train_02892_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,313
+brisc2025_train_02892_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,418
+brisc2025_train_03118_no_co_t1.jpg,no_tumor,coronal,Otsu,True,False,,,,,,,True,2515
+brisc2025_train_03118_no_co_t1.jpg,no_tumor,coronal,k-Means (k=3),True,False,,,,,,,True,2149
+brisc2025_train_03118_no_co_t1.jpg,no_tumor,coronal,FCM (c=3),True,False,,,,,,,True,1989
+brisc2025_train_03118_no_co_t1.jpg,no_tumor,coronal,Guo-Cheng NS,True,False,,,,,,,True,2146
+brisc2025_train_03118_no_co_t1.jpg,no_tumor,coronal,Tufail NS ROI,True,False,,,,,,,True,1875
+brisc2025_train_03172_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,19681
+brisc2025_train_03172_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,85
+brisc2025_train_03172_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,85
+brisc2025_train_03172_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,20
+brisc2025_train_03172_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,173
+brisc2025_train_03181_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,70
+brisc2025_train_03181_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,130
+brisc2025_train_03181_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,130
+brisc2025_train_03181_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,3
+brisc2025_train_03181_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,55
+brisc2025_train_03209_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,3622
+brisc2025_train_03209_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,3409
+brisc2025_train_03209_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,3346
+brisc2025_train_03209_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,7
+brisc2025_train_03209_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,3452
+brisc2025_train_03216_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,9610
+brisc2025_train_03216_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,7667
+brisc2025_train_03216_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,7595
+brisc2025_train_03216_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,8961
+brisc2025_train_03216_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,8522
+brisc2025_train_03276_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,9967
+brisc2025_train_03276_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,7997
+brisc2025_train_03276_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,1
+brisc2025_train_03276_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,8548
+brisc2025_train_03276_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,8643
+brisc2025_train_03357_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,610
+brisc2025_train_03357_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,461
+brisc2025_train_03357_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,459
+brisc2025_train_03357_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,10
+brisc2025_train_03357_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,5
+brisc2025_train_03471_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,False,,,,,,,True,450
+brisc2025_train_03471_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,False,,,,,,,True,316
+brisc2025_train_03471_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,False,,,,,,,True,313
+brisc2025_train_03471_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,False,,,,,,,True,309
+brisc2025_train_03471_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,False,,,,,,,True,255
+brisc2025_train_03524_no_sa_t1.jpg,no_tumor,sagittal,Otsu,True,True,,,,,,,False,0
+brisc2025_train_03524_no_sa_t1.jpg,no_tumor,sagittal,k-Means (k=3),True,True,,,,,,,False,0
+brisc2025_train_03524_no_sa_t1.jpg,no_tumor,sagittal,FCM (c=3),True,True,,,,,,,False,0
+brisc2025_train_03524_no_sa_t1.jpg,no_tumor,sagittal,Guo-Cheng NS,True,True,,,,,,,False,0
+brisc2025_train_03524_no_sa_t1.jpg,no_tumor,sagittal,Tufail NS ROI,True,True,,,,,,,False,0
+brisc2025_train_03574_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999964677,241.68417659107232,False,317
+brisc2025_train_03574_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999964677,188.19873643919925,False,278
+brisc2025_train_03574_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999964677,191.4272084822974,False,1219
+brisc2025_train_03574_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999964677,198.2669232703313,False,2
+brisc2025_train_03574_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999964677,193.09229672682127,False,73
+brisc2025_train_03619_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999972036,104.60060170033165,False,31
+brisc2025_train_03619_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972036,197.4246498656828,False,93
+brisc2025_train_03619_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972036,197.4246498656828,False,94
+brisc2025_train_03619_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999972036,213.1318780330357,False,2
+brisc2025_train_03619_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999972036,212.16337713322682,False,20
+brisc2025_train_03697_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999996115,261.71750021989305,False,7
+brisc2025_train_03697_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999996115,170.84713591921204,False,78
+brisc2025_train_03697_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999996115,170.84713591921204,False,78
+brisc2025_train_03697_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0007766990291231973,0.0003885003884988792,0.0003885003884988792,0.9999999900000002,0.9996114996076162,59.003344934744135,False,0
+brisc2025_train_03697_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999996115,178.83176233084012,False,1
+brisc2025_train_03698_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999960599,125.42642664139213,False,3809
+brisc2025_train_03698_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999960599,98.02215080805216,False,154
+brisc2025_train_03698_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999960599,98.02215080805216,False,154
+brisc2025_train_03698_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999960599,205.6523765310509,False,49
+brisc2025_train_03698_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999960599,302.09070760368496,False,6
+brisc2025_train_03720_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999950075,181.8268360271056,False,79
+brisc2025_train_03720_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999950075,120.0,False,41
+brisc2025_train_03720_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999950075,120.0,False,41
+brisc2025_train_03720_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999950075,195.0797258353894,False,188
+brisc2025_train_03720_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999950075,158.09775354233366,False,3
+brisc2025_train_03891_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999983769,279.41759406260184,False,229
+brisc2025_train_03891_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999983769,191.7563030096327,False,17
+brisc2025_train_03891_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.9765553806635933,0.9541848793897455,0.9566628794011416,0.99729272419459,0.04333712059723529,2.0,False,16
+brisc2025_train_03891_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999983769,163.9275543420158,False,15
+brisc2025_train_03891_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999983769,205.49756092785992,False,4
+brisc2025_train_03901_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999972051,221.78067541508162,False,27
+brisc2025_train_03901_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972051,211.6597413789368,False,403
+brisc2025_train_03901_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999972051,211.78702941237546,False,397
+brisc2025_train_03901_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999972051,221.69534566627217,False,1
+brisc2025_train_03901_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999972051,218.62032977340894,False,7
+brisc2025_train_03959_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999878935,171.39719951037708,False,343
+brisc2025_train_03959_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999878935,134.4372774720797,False,93
+brisc2025_train_03959_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999878935,132.94725028178894,False,89
+brisc2025_train_03959_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999878935,150.46556078765312,False,3
+brisc2025_train_03959_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999878935,124.06448973610823,False,14
+brisc2025_train_03962_pi_ax_t1.jpg,pituitary,axial,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999956786,219.46024537866023,False,1127
+brisc2025_train_03962_pi_ax_t1.jpg,pituitary,axial,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999956786,233.57268635763077,False,516
+brisc2025_train_03962_pi_ax_t1.jpg,pituitary,axial,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999956786,233.57268635763077,False,516
+brisc2025_train_03962_pi_ax_t1.jpg,pituitary,axial,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999956786,252.71524781497456,False,5
+brisc2025_train_03962_pi_ax_t1.jpg,pituitary,axial,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999956786,213.54718447334176,False,3
+brisc2025_train_04025_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999976836,183.43808064233932,False,669
+brisc2025_train_04025_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999976836,209.189349660363,False,131
+brisc2025_train_04025_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999976836,209.189349660363,False,131
+brisc2025_train_04025_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999976836,218.31759870515125,False,7
+brisc2025_train_04025_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999976836,132.9916629760735,False,7
+brisc2025_train_04046_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999976482,237.59208741033444,False,26
+brisc2025_train_04046_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999976482,238.94769302087852,False,13
+brisc2025_train_04046_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999976482,238.94769302087852,False,13
+brisc2025_train_04046_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999976482,210.85777196963835,False,1
+brisc2025_train_04046_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999976482,208.7773934122179,False,16
+brisc2025_train_04292_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999978886,197.6501912810469,False,577
+brisc2025_train_04292_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978886,203.11105324518815,False,241
+brisc2025_train_04292_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999978886,203.11105324518815,False,241
+brisc2025_train_04292_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999978886,162.25656892786068,False,3
+brisc2025_train_04292_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999978886,160.35834330106482,False,9
+brisc2025_train_04317_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.019189454143458025,0.009687677695173076,0.1659451659445673,0.010183524827874038,0.8340548340518252,197.42817298057685,False,44711
+brisc2025_train_04317_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.07633587786233055,0.03968253968239653,0.03968253968239653,0.9999999999090909,0.960317460313996,43.01774730039985,False,0
+brisc2025_train_04317_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999963926,89.02668082928655,False,85
+brisc2025_train_04317_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999963926,91.9458930809777,False,4
+brisc2025_train_04317_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999963926,135.3629381894408,False,1
+brisc2025_train_04338_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999975235,202.0958785278379,False,859
+brisc2025_train_04338_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999975235,90.29007553625515,False,177
+brisc2025_train_04338_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999975235,90.29007553625515,False,178
+brisc2025_train_04338_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999975235,105.89851480273714,False,13
+brisc2025_train_04338_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999975235,154.82181543555518,False,1
+brisc2025_train_04404_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999959759,77.37506007161218,False,834
+brisc2025_train_04404_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999959759,112.53888216967503,False,188
+brisc2025_train_04404_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999959759,112.53888216967503,False,189
+brisc2025_train_04404_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999959759,195.2777481455317,False,6
+brisc2025_train_04404_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999959759,73.2727667570029,False,10
+brisc2025_train_04419_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999964273,207.17263304319266,False,52
+brisc2025_train_04419_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999964273,201.8103980497459,False,206
+brisc2025_train_04419_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999964273,208.73428084528905,False,47
+brisc2025_train_04419_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999964273,204.91329260894918,False,101
+brisc2025_train_04419_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999964273,198.0,False,16
+brisc2025_train_04445_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999981029,211.57031927943012,False,122
+brisc2025_train_04445_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999981029,205.00975586542216,False,474
+brisc2025_train_04445_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999981029,205.00975586542216,False,476
+brisc2025_train_04445_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999981029,121.07848694132248,False,3
+brisc2025_train_04445_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999981029,119.9208072020865,False,15
+brisc2025_train_04450_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999952741,159.1728408525009,False,1193
+brisc2025_train_04450_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999952741,196.75771892313563,False,603
+brisc2025_train_04450_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999952741,196.54414182400035,False,622
+brisc2025_train_04450_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999952741,77.67655928248838,False,2
+brisc2025_train_04450_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.003773584905642578,0.0018903591682330324,0.0018903591682330324,0.9999999975,0.9981096408270411,55.55579877825623,False,0
+brisc2025_train_04474_pi_co_t1.jpg,pituitary,coronal,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999996905,155.78217191508682,False,1119
+brisc2025_train_04474_pi_co_t1.jpg,pituitary,coronal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999996905,193.56807065292358,False,139
+brisc2025_train_04474_pi_co_t1.jpg,pituitary,coronal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999996905,207.78877270752588,False,292
+brisc2025_train_04474_pi_co_t1.jpg,pituitary,coronal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999996905,136.77058915718266,False,1
+brisc2025_train_04474_pi_co_t1.jpg,pituitary,coronal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999996905,172.84296669819716,False,11
+brisc2025_train_04486_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999971206,82.9083713846725,False,973
+brisc2025_train_04486_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971206,207.57576823940718,False,105
+brisc2025_train_04486_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999971206,207.57576823940718,False,105
+brisc2025_train_04486_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999971206,230.02497487246944,False,14
+brisc2025_train_04486_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999971206,97.64783525632781,False,41
+brisc2025_train_04570_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999955178,238.20348364128174,False,226
+brisc2025_train_04570_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999955178,167.2417319480727,False,41
+brisc2025_train_04570_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999955178,167.2417319480727,False,41
+brisc2025_train_04570_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999955178,67.44330894037536,False,2
+brisc2025_train_04570_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999955178,51.96247996509975,False,4
+brisc2025_train_04573_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999968896,256.5867199490703,False,90
+brisc2025_train_04573_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999968896,89.04352785113562,False,395
+brisc2025_train_04573_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999968896,89.04352785113562,False,400
+brisc2025_train_04573_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0006218905472617479,0.0003110419906677728,0.0003110419906677728,0.9999999900000002,0.9996889580062218,55.767111418748925,False,0
+brisc2025_train_04573_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999968896,160.93553921434224,False,48
+brisc2025_train_04652_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999994128,150.03580649363073,False,6871
+brisc2025_train_04652_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999994128,104.77494009061367,False,176
+brisc2025_train_04652_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999994128,104.77494009061367,False,178
+brisc2025_train_04652_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999994128,106.97825858072461,False,14
+brisc2025_train_04652_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999994128,149.00117448341888,False,3
+brisc2025_train_04725_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999954254,221.21085616875257,False,632
+brisc2025_train_04725_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999954254,92.82025910947263,False,51
+brisc2025_train_04725_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999954254,91.9271425325076,False,54
+brisc2025_train_04725_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999954254,237.57509477790117,False,37
+brisc2025_train_04725_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999954254,99.08482364388563,False,2
+brisc2025_train_04771_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999965777,300.6037253216786,False,852
+brisc2025_train_04771_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999965777,64.77948997102656,False,181
+brisc2025_train_04771_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999965777,212.84641419285938,False,72
+brisc2025_train_04771_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999965777,140.41150454566377,False,2
+brisc2025_train_04771_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999965777,84.5564470544218,False,9
+brisc2025_train_04805_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999934255,125.02039625627798,False,77
+brisc2025_train_04805_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999934255,127.78219573871469,False,31
+brisc2025_train_04805_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999934255,127.78219573871469,False,38
+brisc2025_train_04805_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999934255,153.44380078712857,False,7
+brisc2025_train_04805_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999934255,130.69770977917986,False,2
+brisc2025_train_04815_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.999999999995656,136.12585799288127,False,32
+brisc2025_train_04815_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.999999999995656,137.05546263502157,False,23
+brisc2025_train_04815_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.999999999995656,137.05546263502157,False,21
+brisc2025_train_04815_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.999999999995656,158.80648586536074,False,1
+brisc2025_train_04815_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.999999999995656,152.77565227064005,False,17
+brisc2025_train_04963_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999868766,104.48444860360799,False,792
+brisc2025_train_04963_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999868766,109.02465740692563,False,381
+brisc2025_train_04963_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999868766,103.14743838636534,False,698
+brisc2025_train_04963_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999868766,121.62750124398585,False,30
+brisc2025_train_04963_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999868766,81.51031677264041,False,2
+brisc2025_train_04987_pi_sa_t1.jpg,pituitary,sagittal,Otsu,False,False,0.0,0.0,0.0,0.0,0.9999999999977659,211.31397750381092,False,7615
+brisc2025_train_04987_pi_sa_t1.jpg,pituitary,sagittal,k-Means (k=3),False,False,0.0,0.0,0.0,0.0,0.9999999999977659,195.46198748283675,False,2720
+brisc2025_train_04987_pi_sa_t1.jpg,pituitary,sagittal,FCM (c=3),False,False,0.0,0.0,0.0,0.0,0.9999999999977659,195.46198748283675,False,2734
+brisc2025_train_04987_pi_sa_t1.jpg,pituitary,sagittal,Guo-Cheng NS,False,False,0.0,0.0,0.0,0.0,0.9999999999977659,294.8719968934085,False,1
+brisc2025_train_04987_pi_sa_t1.jpg,pituitary,sagittal,Tufail NS ROI,False,False,0.0,0.0,0.0,0.0,0.9999999999977659,197.6046251250831,False,1002

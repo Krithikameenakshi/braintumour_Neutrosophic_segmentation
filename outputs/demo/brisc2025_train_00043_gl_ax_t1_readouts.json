@@ -1,0 +1,10 @@
+{
+  "filename": "brisc2025_train_00043_gl_ax_t1.jpg",
+  "has_tumor": true,
+  "region_confidence": 0.8273,
+  "boundary_uncertainty": 0.0836,
+  "tumor_area_pixels": 6800,
+  "tumor_pct_brain": 7.84,
+  "candidate_score": 0.9455,
+  "polarity": "negative"
+}

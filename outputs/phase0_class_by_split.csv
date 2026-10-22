@@ -1,0 +1,5 @@
+tumor_class,test,train
+glioma,254,1147
+meningioma,306,1329
+no_tumor,140,1067
+pituitary,300,1457

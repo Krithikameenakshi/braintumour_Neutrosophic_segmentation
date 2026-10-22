@@ -1,0 +1,10 @@
+{
+  "filename": "brisc2025_test_00001_gl_ax_t1.jpg",
+  "has_tumor": true,
+  "region_confidence": 0.8744,
+  "boundary_uncertainty": 0.1539,
+  "tumor_area_pixels": 7198,
+  "tumor_pct_brain": 9.82,
+  "candidate_score": 0.9562,
+  "polarity": "negative"
+}

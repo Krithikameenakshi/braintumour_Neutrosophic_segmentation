@@ -1,0 +1,18 @@
+% BRISC 2025 Test Split Segmentation Performance Benchmark
+\begin{table*}[t]
+\centering
+\small
+\caption{Quantitative comparison on the unseen BRISC 2025 test dataset ($N=1{,}000$: 860 tumor, 140 negative controls). All methods operate in an unsupervised, training-free setting. $p$-values denote paired Wilcoxon signed-rank test against the proposed framework.}\label{tab:test_benchmark}
+\begin{tabular}{lccccccr}
+\hline
+Method & Dice (Mean$\pm$SD) & Dice (Median) & IoU & Sens. & Prec. & HD95 (mm) & False Alarm (\%) \\
+\hline
+Otsu & 0.123$\pm$0.281 & 0.000 & 0.103 & 0.156 & 0.160 & 162.54 & 100.0\% \\
+k-Means (k=3) & 0.134$\pm$0.294 & 0.000 & 0.112 & 0.123 & 0.197 & 143.58 & 100.0\% \\
+FCM (c=3) & 0.134$\pm$0.295 & 0.000 & 0.112 & 0.125 & 0.191 & 147.02 & 100.0\% \\
+Guo-Cheng NS & 0.039$\pm$0.159 & 0.000 & 0.030 & 0.032 & 0.188 & 147.95 & 100.0\% \\
+Tufail NS ROI & 0.052$\pm$0.174 & 0.000 & 0.039 & 0.041 & 0.156 & 151.24 & 99.3\% \\
+\textbf{Proposed Pipeline} & \textbf{0.163$\pm$0.302} & \textbf{0.000} & \textbf{0.131} & \textbf{0.187} & \textbf{0.202} & \textbf{125.20} & \textbf{92.1\%} \\
+\hline
+\end{tabular}
+\end{table*}

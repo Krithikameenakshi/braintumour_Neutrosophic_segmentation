@@ -1,0 +1,89 @@
+paths:
+  data_dir: data/brisc
+  manifest_path: data/brisc/manifest.csv
+  outputs_dir: outputs
+  results_dir: results
+  tuning_subset_path: data/tuning_subset_100.csv
+experiment:
+  seed: 42
+  tuning_sample_size: 100
+preprocess:
+  p1: 1.0
+  p99: 99.0
+  skull_strip:
+    r_s_ratio: 0.06
+  perona_malik:
+    kappa: 0.05
+    lambda_val: 0.15
+    n_iter: 10
+    conductance_function: 1
+neutrosophic:
+  window_size: 5
+  entropy_bins: 256
+  enhanced:
+    sd_window: 7
+    sobel_ksize: 3
+    w_delta: 0.5
+    w_gradient_sd: 0.5
+baselines:
+  kmeans:
+    k: 3
+  fuzzy_c_means:
+    n_clusters: 3
+    m: 2.0
+    max_iter: 100
+    error: 0.005
+  guo_cheng_ns:
+    entropy_bins: 256
+  tufail_ns:
+    sd_window: 7
+    sobel_ksize: 3
+    tt: 0.9
+    tf: 0.1
+pipeline:
+  step_a_indeterminacy:
+    sigma: 0.01
+    dmf_window: 3
+    max_iter: 10
+    convergence_tol: 0.01
+    fallback_isotropic: false
+  step_b_adaptive_s:
+    multi_otsu_classes: 4
+    multi_otsu_fallback_classes: 3
+    min_class_ratio: 0.02
+    pm_candidates: 16
+    guard_brain_area_ratio: 0.35
+  step_c_seeds:
+    ts_high: 0.9
+    ts_low: 0.1
+    bg_erosion_px: 2
+    dual_polarity: true
+  step_d_candidate_scoring:
+    min_area_ratio: 0.0005
+    max_area_ratio: 0.35
+    w_t: 0.35
+    w_i: 0.25
+    w_solidity: 0.2
+    w_sym: 0.2
+    sym_corr_thresh: 0.85
+    tau_rej: 0.5
+    top_candidate_ratio: 0.8
+  step_e_watershed:
+    sd_window: 7
+    sobel_ksize: 3
+    i_landscape_weight: 0.5
+    ghat_landscape_weight: 0.5
+    marker_erosion_px: 1
+  step_f_postprocess:
+    closing_radius: 2
+    opening_radius: 1
+    gaussian_sigma: 1.0
+    binary_threshold: 0.5
+  step_g_output:
+    contour_color_bgr:
+    - 0
+    - 0
+    - 255
+    contour_thickness: 2
+    overlay_alpha: 0.35
+    uncertainty_band_px: 3
